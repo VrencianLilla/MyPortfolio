@@ -1,3 +1,4 @@
+# MyPortfolio
 # Lilla Vrencian — portfolio
 
 A responsive portfolio built with Next.js App Router, React, TypeScript, react-icons, and CSS. Content is based on the supplied CV. The original portrait and downloadable CV are in `public/`.
